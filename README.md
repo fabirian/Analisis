@@ -4,7 +4,7 @@ Este proyecto permite realizar análisis de rendimientos de empresas utilizando 
 
 ## Uso
 
-1. Visita [mi sitio web]([https://github.com/fabirian/Analisis/tree/gh-pages](https://fabirian.github.io/Analisis/)).
+1. Visita [mi sitio web](https://fabirian.github.io/Analisis/).
 2. Selecciona la empresa que deseas analizar.
 3. Explora los gráficos y análisis de rendimientos.
 
