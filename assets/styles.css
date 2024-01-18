@@ -1,0 +1,15 @@
+/* assets/css/styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+#graph {
+    width: 80%;
+    margin: 20px auto;
+}
+

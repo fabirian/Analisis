@@ -1,3 +1,4 @@
+# src/app.py
 from dash import Dash, dcc, html, Input, Output
 import plotly.graph_objects as go
 import yfinance as yf
@@ -38,5 +39,6 @@ def display_candlestick(value):
 
 # Iniciar la aplicación si se ejecuta como script principal
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run_server(debug=True, host='0.0.0.0', port=8050)
+
 
